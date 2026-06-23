@@ -161,6 +161,12 @@ without claim to physical accuracy.
 
 ---
 
-## License
+## ⬇️ Download
+
+The latest release is available on the [Releases page](../../releases/latest).
+
+---
+
+## 🔒 License
 
 [GPL-3.0-or-later](LICENSE)
