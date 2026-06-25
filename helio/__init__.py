@@ -7,7 +7,7 @@ according to the NOAA Solar Calculator and sets up the Sky Texture
 and Sun light including color temperature and intensity.
 
 Author: Michal Dolanský
-Version: 1.1.0
+Version: 1.1.1
 Blender: 5.0+
 """
 

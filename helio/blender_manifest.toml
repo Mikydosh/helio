@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "helio"
-version = "1.1.0"
+version = "1.1.1"
 name = "Helio"
 tagline = "Automatic lighting of the scene based on GPS, date and time"
 maintainer = "Michal Dolanský"
