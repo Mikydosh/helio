@@ -9,7 +9,9 @@ type = "add-on"
 
 website = "https://extensions.blender.org/add-ons/helio/"
 
-tags = ["Lighting", "Scene"]
+tags = ["Lighting"]
+
+support = "https://github.com/mikydosh/helio/issues"
 
 blender_version_min = "5.0.0"
 
